@@ -1,0 +1,7 @@
+{
+  "name": "DermaAI - Chẩn đoán Da liễu Thông minh",
+  "description": "Ứng dụng hỗ trợ chẩn đoán bệnh da liễu sử dụng AI kết hợp phân tích hình ảnh và triệu chứng lâm sàng.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
